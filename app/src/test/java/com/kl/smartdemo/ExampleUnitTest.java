@@ -1,4 +1,4 @@
-package com.imooc.smartdemo;
+package com.kl.smartdemo;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.imooc.smartdemo;
+package com.kl.smartdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
