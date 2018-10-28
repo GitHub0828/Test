@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.imooc.smartbutler", appContext.getPackageName());
+        assertEquals("com.kl.smartbutler", appContext.getPackageName());
     }
 }
